@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+# Take note
+## Chapter 1
+/app: contain all the routes, logics for application
+/app/lib: contains functions used in application, such as reusable utility functions and data fetching functions.
+/app/ui: contains all UI components for application
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Chapter 2
+- CSS: Provide a way to make CSS classes locally scoped to components by default, reducing the risk of styling conflicts.
+- Using Tailwindcss
+- clsx: https://github.com/lukeed/clsx
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Chapter 3
